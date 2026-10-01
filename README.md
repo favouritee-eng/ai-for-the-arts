@@ -1,2 +1,2 @@
 # ai-for-the-arts
-# Hellooo
+# Hello
